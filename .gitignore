@@ -1,0 +1,22 @@
+# Datos personales y credenciales (NUNCA subir a GitHub)
+.env
+
+# Perfil de Chrome con sesión y cookies de Amazon (NUNCA subir a GitHub)
+chrome_profile/
+
+# Capturas de pantalla (pueden contener dirección o datos de cuenta)
+screenshots/
+
+# Entorno virtual y caché de Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema operativo o IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
